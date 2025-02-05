@@ -1,13 +1,10 @@
-import { useState } from 'react'
-import viteLogo from '/vite.svg'
-import './App.css'
-// import "bootstrap/dist/css/bootstrap.min.css";
+import Body from "./components/Body"
 
 function App() {
 
   return (
     <>
-      <h1 className="text-center text-primary">NAMASTE TANMAY</h1>
+      <Body/>
     </>
   )
 }
