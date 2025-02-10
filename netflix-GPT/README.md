@@ -28,7 +28,11 @@
 -fetch data for trailer video
 -update store with trailer video data
 - embedded the youtube video make it autoplay and mute
-- tailwind for main container
--
+-tailwind for main container to look awesome by logic of secondary container
+-build secondary component
+-build movie list
+-build movie card
+-tmdb image cdn url
+-created usenowplaying movies & usepopularmovies custom hooks 
 
 

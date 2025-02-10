@@ -48,7 +48,7 @@ function Header(){
     },[])
 
     return(
-        <div className="position-absolute w-screen bg-gradient-to-b from-black z-10 flex justify-between">
+        <div className="fixed top-0 left-0 w-screen bg-black bg-opacity-50 z-10 flex justify-between px-3">
             <img
             className="w-55" 
             src={LOGO}
